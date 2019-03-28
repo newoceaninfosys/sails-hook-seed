@@ -20,7 +20,8 @@ module.exports = function(sails) {
 
             //directory where migration resides
             //relative to `sails.appPath`
-            path: 'seeds'
+            path: 'seeds',
+            extraPaths: false
         },
 
         //Runs automatically when the hook initializes

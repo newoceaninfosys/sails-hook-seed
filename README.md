@@ -102,7 +102,12 @@ module.exports.seed = {
     path: 'seeds',
 
     //enable or disable seeding
-    active: true
+    active: true,
+
+    // extra paths
+    extraPaths: [
+        'themes/abc/seeds'
+    ]
 }
 ```
 
