@@ -1,6 +1,6 @@
 {
   "name": "@nois/sails-hook-seed",
-  "version": "0.3.0",
+  "version": "0.3.2",
   "description": "DRY data seeding for sails",
   "main": "index.js",
   "scripts": {
